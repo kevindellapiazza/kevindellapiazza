@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kevindellapiazza/kevindellapiazza/main/linekdin%20banner%202.png" alt="Banner" width="100%" />
+</p>
+
+&nbsp;  
+
+
+
 <div align="center">
 
 # 👋 Welcome to my space!
