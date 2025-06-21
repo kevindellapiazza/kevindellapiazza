@@ -1,23 +1,26 @@
-# 👋 welcome to my space! 
+# 👋 Welcome to my space!
 
-Quick snapshot of who I am:
+### Quick snapshot of who I am:
 🚀 Building Real-World Solutions with **Data Science · Cloud · AI**  
 🎓 IBM Certified · AWS SAA (in progress) · Prompt Engineering · AI Ethics  
 🌍 Remote-Ready | Focused on Real Solutions That Scale
 
+---
 
-My mission is to design and deploy production-ready systems that:
-✅ Are cloud-native and built to scale
-✅ Automate real business processes
-✅ Stay cost-efficient, maintainable, and deliver long-term value
+### My mission is to design and deploy production-ready systems that:
+- ✅ Are cloud-native and built to scale  
+- ✅ Automate real business processes  
+- ✅ Stay cost-efficient, maintainable, and deliver long-term value  
 
-What makes my approach different? 
+---
+
+### What makes my approach different?  
 I’m not just experimenting with tools — I’m applying them to solve concrete problems, automate inefficient processes, and enable better decisions.
-My work is guided:
-🔍 Driven by business understanding (focused on decisions that truly matter)
-📐 Guided by data methodology (every step follows a clear, strategic process)
-⚙️ Powered by modern technologies (AWS · Python · GenAI — built for scale and impact)
 
+**My work is guided by:**
+- 🔍 **Driven by business understanding** *(focused on decisions that truly matter)*  
+- 📐 **Guided by data methodology** *(every step follows a clear, strategic process)*  
+- ⚙️ **Powered by modern technologies** *(AWS · Python · GenAI — built for scale and impact)*  
 
 ---
 
@@ -47,14 +50,6 @@ My work is guided:
 - ✅ **AI Ethics** – University of Michigan  
 - 🔄 **AWS Solutions Architect Associate** *(in progress)*  
 
----
-
-## 📍 What Drives Me
-
-- 🎯 Practical, scalable problem-solving  
-- 🔁 Structured thinking using Data Science Methodology  
-- 🌐 Based in Europe, available for **remote roles worldwide**  
-- 📚 Lifelong learner in **data, cloud & AI**  
 
 ---
 
