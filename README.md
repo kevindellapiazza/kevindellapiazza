@@ -1,9 +1,12 @@
+<div align="center">
+
 # 👋 Welcome to my space!
 
 ### Quick snapshot of who I am:
 🚀 Building Real-World Solutions with **Data Science · Cloud · AI**  
 🎓 IBM Certified · AWS SAA (in progress) · Prompt Engineering · AI Ethics  
 🌍 Remote-Ready | Focused on Real Solutions That Scale
+</div>
 
 ---
 
@@ -26,20 +29,19 @@ I’m not just experimenting with tools — I’m applying them to solve concret
 
 ## 💻 Featured Projects
 
-| 🧾 Project | ⚙️ Tech Stack | 📌 Description |
-|-----------|---------------|----------------|
-| **VCM – VAT Compliance Monitor** | `AWS Lambda`, `Textract`, `S3`, `DynamoDB`, `CloudWatch`, `Python` | A **serverless AWS solution** that automates VAT invoice validation using OCR and country-specific rules. Designed to eliminate manual data entry and ensure auditability. |
-| *(More projects coming soon)* | `To be announced` | Focused on Cloud + AI pipelines, business analytics, and production-ready automation tools. |
+| 🧾 Project                        | ⚙️ Tech Stack                                                                 | 📌 Description                                                                                                              |
+|----------------------------------|------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
+| [VCM – VAT Compliance Monitor](https://github.com/kevindellapiazza/vat-compliance-monitor) | AWS Lambda, Textract, S3, DynamoDB, Glue, Athena, Python                         | A serverless AWS solution that automates VAT invoice validation using OCR and country-specific rules. Designed to eliminate manual data entry and ensure auditability. |
+| (More projects coming soon)      | To be announced                                                              | Focused on DATA + Cloud + AI pipelines, business analytics, and production-ready automation tools.                                 |
 
-📂 **Check out:** [github.com/kevindellapiazza/vat-compliance-monitor](https://github.com/kevindellapiazza/vat-compliance-monitor)
 
 ---
 
 ## 🧠 Skills & Technologies
 
-| 🧪 **Data Science** | ☁️ **Cloud & DevOps** | 🤖 **AI & GenAI** |
-|---------------------|------------------------|-------------------|
-| <img src="https://img.shields.io/badge/-Python-black?logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/-SQL-informational?logo=sqlite&logoColor=white" /> <img src="https://img.shields.io/badge/-pandas-purple?logo=pandas" /> <img src="https://img.shields.io/badge/-NumPy-darkblue?logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/-Jupyter-orange?logo=jupyter&logoColor=white" /> | <img src="https://img.shields.io/badge/-AWS%20Lambda-orange?logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/-S3-orange?logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/-IAM-orange?logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/-Textract-orange?logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/-DynamoDB-orange?logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/-CloudWatch-orange?logo=amazonaws&logoColor=white" /> | <img src="https://img.shields.io/badge/-Prompt%20Engineering-blueviolet?logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/-AI%20Ethics-gray?logo=trustedshops&logoColor=white" /> <img src="https://img.shields.io/badge/-scikit--learn-f7931e?logo=scikitlearn&logoColor=white" /> |
+| 🧪 **Data Science** | ☁️ **Cloud & DevOps (AWS)** | 🤖 **AI & GenAI** |
+|---------------------|-----------------------------|-------------------|
+| ![Python](https://img.shields.io/badge/-Python-1E90FF?logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-1E90FF?logo=sqlite&logoColor=white) ![pandas](https://img.shields.io/badge/-pandas-1E90FF?logo=pandas) ![NumPy](https://img.shields.io/badge/-NumPy-1E90FF?logo=numpy&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-1E90FF?logo=jupyter&logoColor=white) ![scikit-learn](https://img.shields.io/badge/-scikit--learn-1E90FF?logo=scikitlearn&logoColor=white) | ![Lambda](https://img.shields.io/badge/-Lambda-orange?logo=amazonaws&logoColor=white) ![S3](https://img.shields.io/badge/-S3-orange?logo=amazonaws&logoColor=white) ![DynamoDB](https://img.shields.io/badge/-DynamoDB-orange?logo=amazonaws&logoColor=white) ![IAM](https://img.shields.io/badge/-IAM-orange?logo=amazonaws&logoColor=white) ![Textract](https://img.shields.io/badge/-Textract-orange?logo=amazonaws&logoColor=white) ![CloudWatch](https://img.shields.io/badge/-CloudWatch-orange?logo=amazonaws&logoColor=white) ![Glue](https://img.shields.io/badge/-Glue-orange?logo=amazonaws&logoColor=white) ![Athena](https://img.shields.io/badge/-Athena-orange?logo=amazonaws&logoColor=white) ![Cost Explorer](https://img.shields.io/badge/-Cost_Explorer-orange?logo=amazonaws&logoColor=white) | ![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-8A2BE2?logo=openai&logoColor=white) ![AI Ethics](https://img.shields.io/badge/-AI%20Ethics-8A2BE2?logo=trustedshops&logoColor=white) ![GenAI](https://img.shields.io/badge/-GenAI-8A2BE2?logo=openai&logoColor=white) |
 
 ---
 
@@ -56,8 +58,8 @@ I’m not just experimenting with tools — I’m applying them to solve concret
 ## 📬 Let's Connect
 
 - 🔗 [LinkedIn](https://linkedin.com/in/kevindellapiazza/)  
-- 📂 [GitHub Projects](https://github.com/kevindellapiazza)  
+- 📧 Email: [kevindellapiazza1@gmail.com](mailto:kevindellapiazza1@gmail.com) 
 
-Let’s build something impactful — powered by smart data and clean cloud architecture 🚀
+If you're hiring, building, or collaborating in this space — I’d love to connect and explore ways we can work together! 🚀
 
 
