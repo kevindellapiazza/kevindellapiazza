@@ -34,16 +34,16 @@ I’m not just experimenting with tools — I’m applying them to solve concret
 - 🔍 **Driven by business understanding** *(focused on decisions that truly matter)*  
 - 📐 **Guided by data methodology** *(every step follows a clear, strategic process)*  
 - ⚙️ **Powered by modern technologies** *(AWS · Python · GenAI — built for scale and impact)*  
+                             
 
 ---
 
 ## 💻 Featured Projects
 
-| 🧾 Project                        | ⚙️ Tech Stack                                                                 | 📌 Description                                                                                                              |
-|----------------------------------|------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
-| [VCM – VAT Compliance Monitor](https://github.com/kevindellapiazza/vat-compliance-monitor) | AWS Lambda, Textract, S3, DynamoDB, Glue, Athena, Python                         | A serverless AWS solution that automates VAT invoice validation using OCR and country-specific rules. Designed to eliminate manual data entry and ensure auditability. |
-| (More projects coming soon)      | To be announced                                                              | Focused on DATA + Cloud + AI pipelines, business analytics, and production-ready automation tools.                                 |
-
+| 🧾 Project                        | 🔗 Link                                                                                         | ⚙️ Tech Stack                                                | 📌 Description                                                                                                                                                  |
+|----------------------------------|-----------------------------------------------------------------------------------------------|--------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| VCM – VAT Compliance Monitor     | [GitHub Repo](https://github.com/kevindellapiazza/vat-compliance-monitor)                     | AWS Lambda, Textract, S3, DynamoDB, Glue, Athena, Python     | A serverless AWS solution that automates VAT invoice validation using OCR and country-specific rules. Designed to eliminate manual data entry and ensure auditability. |
+| (More projects coming soon)      | —                                                                                             | To be announced                                              | Focused on DATA + Cloud + AI pipelines, business analytics, and production-ready automation tools.                                                              |
 
 ---
 
@@ -53,23 +53,23 @@ I’m not just experimenting with tools — I’m applying them to solve concret
 |---------------------|-----------------------------|-------------------|
 | ![Python](https://img.shields.io/badge/-Python-1E90FF?logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-1E90FF?logo=sqlite&logoColor=white) ![pandas](https://img.shields.io/badge/-pandas-1E90FF?logo=pandas) ![NumPy](https://img.shields.io/badge/-NumPy-1E90FF?logo=numpy&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-1E90FF?logo=jupyter&logoColor=white) ![scikit-learn](https://img.shields.io/badge/-scikit--learn-1E90FF?logo=scikitlearn&logoColor=white) | ![Lambda](https://img.shields.io/badge/-Lambda-orange?logo=amazonaws&logoColor=white) ![S3](https://img.shields.io/badge/-S3-orange?logo=amazonaws&logoColor=white) ![DynamoDB](https://img.shields.io/badge/-DynamoDB-orange?logo=amazonaws&logoColor=white) ![IAM](https://img.shields.io/badge/-IAM-orange?logo=amazonaws&logoColor=white) ![Textract](https://img.shields.io/badge/-Textract-orange?logo=amazonaws&logoColor=white) ![CloudWatch](https://img.shields.io/badge/-CloudWatch-orange?logo=amazonaws&logoColor=white) ![Glue](https://img.shields.io/badge/-Glue-orange?logo=amazonaws&logoColor=white) ![Athena](https://img.shields.io/badge/-Athena-orange?logo=amazonaws&logoColor=white) ![Cost Explorer](https://img.shields.io/badge/-Cost_Explorer-orange?logo=amazonaws&logoColor=white) | ![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-8A2BE2?logo=openai&logoColor=white) ![AI Ethics](https://img.shields.io/badge/-AI%20Ethics-8A2BE2?logo=trustedshops&logoColor=white) ![GenAI](https://img.shields.io/badge/-GenAI-8A2BE2?logo=openai&logoColor=white) |
 
----
 
+---
 ## 🎓 Certifications
 
-- ✅ **IBM Data Science Professional Certificate**  
-- ✅ **Prompt Engineering for ChatGPT** – Vanderbilt University  
-- ✅ **AI Ethics** – University of Michigan  
-- 🔄 **AWS Solutions Architect Associate** *(in progress)*  
-
+- ✅ **[IBM Data Science Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/certificate/HCU5SAH9K9AE)**
+- ✅ **[Prompt Engineering for ChatGPT – Vanderbilt University](https://www.coursera.org/account/accomplishments/certificate/8NS7UF3O4FJX)**
+- ✅ **[AI Ethics – University of Michigan](https://www.coursera.org/account/accomplishments/certificate/W2G9DVE80PTL)**
+- 🔄 **AWS Solutions Architect Associate** *(in progress)*
 
 ---
 
-## 📬 Let's Connect
+- ## 📬 Let's Connect
 
-- 🔗 [LinkedIn](https://linkedin.com/in/kevindellapiazza/)  
-- 📧 Email: [kevindellapiazza1@gmail.com](mailto:kevindellapiazza1@gmail.com) 
+- 🔗 **[LinkedIn](https://linkedin.com/in/kevindellapiazza/)**
+- 📧 **[kevindellapiazza1@gmail.com](mailto:kevindellapiazza1@gmail.com)**
 
+<br>
 If you're hiring, building, or collaborating in this space — I’d love to connect and explore ways we can work together! 🚀
 
 <!-- Spacer -->
