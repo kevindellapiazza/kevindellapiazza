@@ -1,20 +1,22 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kevindellapiazza/kevindellapiazza/main/linekdin%20banner%202.png" alt="Banner" width="100%" />
+<p align="center" style="margin-bottom: 60px;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6dd5fa,100:2980b9&height=120&section=header" />
 </p>
 
-&nbsp;  
 
-
+<!-- Spacer -->
+<br><br><br>
 
 <div align="center">
 
-# 👋 Welcome to my space!
+# Quick snapshot of who I am:
 
-### Quick snapshot of who I am:
-🚀 Building Real-World Solutions with **Data Science · Cloud · AI**  
-🎓 IBM Certified · AWS SAA (in progress) · Prompt Engineering · AI Ethics  
-🌍 Remote-Ready | Focused on Real Solutions That Scale
+🚀 Creating Scalable Solutions with **Data Science · Cloud · AI**  
+🎓 IBM-Certified Data Scientist · AWS SAA (in progress) · Prompt Engineering · AI Ethics     
+🌍 Remote-Ready | Focused on Delivering Real-World Business Impact
 </div>
+
+
+
 
 ---
 
@@ -70,4 +72,10 @@ I’m not just experimenting with tools — I’m applying them to solve concret
 
 If you're hiring, building, or collaborating in this space — I’d love to connect and explore ways we can work together! 🚀
 
+<!-- Spacer -->
+<br>
+
+<p align="center" style="margin-top: 60px;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6dd5fa,100:2980b9&height=120&section=footer" />
+</p>
 
