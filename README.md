@@ -28,12 +28,12 @@
 ---
 
 ### What makes my approach different?  
-I’m not just experimenting with tools — I’m applying them to solve concrete problems, automate inefficient processes, and enable better decisions.
+I’m not just experimenting with tools; I’m applying them to solve concrete problems, automate inefficient processes, and enable better decisions.
 
 **My work is guided by:**
 - 🔍 **Driven by business understanding** *(focused on decisions that truly matter)*  
 - 📐 **Guided by data methodology** *(every step follows a clear, strategic process)*  
-- ⚙️ **Powered by modern technologies** *(AWS · Python · GenAI — built for scale and impact)*  
+- ⚙️ **Powered by modern technologies** *(AWS · Python · GenAI › built for scale and impact)*  
                              
 
 ---
@@ -70,7 +70,7 @@ I’m not just experimenting with tools — I’m applying them to solve concret
 - 📧 **[kevindellapiazza1@gmail.com](mailto:kevindellapiazza1@gmail.com)**
 
 <br>
-If you're hiring, building, or collaborating in this space — I’d love to connect and explore ways we can work together! 🚀
+If you're hiring, building, or collaborating in this space. I’d love to connect and explore ways we can work together! 🚀
 
 <!-- Spacer -->
 <br>
