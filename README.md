@@ -57,10 +57,11 @@ I’m not just experimenting with tools; I’m applying them to solve concrete p
 ---
 ## 🎓 Certifications
 
+- ✅ **[AWS Solutions Architect Associate SAA-C03](https://www.credly.com/badges/3368f6db-a55e-49f5-8679-c50b35c5ca98/public_url)** 
 - ✅ **[IBM Data Science Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/certificate/HCU5SAH9K9AE)**
 - ✅ **[Prompt Engineering for ChatGPT – Vanderbilt University](https://www.coursera.org/account/accomplishments/certificate/8NS7UF3O4FJX)**
 - ✅ **[AI Ethics – University of Michigan](https://www.coursera.org/account/accomplishments/certificate/W2G9DVE80PTL)**
-- 🔄 **AWS Solutions Architect Associate** *(in progress)*
+
 
 ---
 
