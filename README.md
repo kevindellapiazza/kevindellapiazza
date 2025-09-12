@@ -10,8 +10,12 @@
 
 # Quick snapshot of who I am:
 
-🚀 Creating Scalable Solutions with **Data Science · Cloud · AI**  
-🎓 IBM-Certified Data Scientist · AWS SAA (in progress) · Prompt Engineering · AI Ethics     
+🚀 I build scalable data foundations that turn AI and analytics into real business value. 
+<br>
+🎓 AWS Certified Solution Architect - Associate
+<br>
+🎓 IBM Certified Data Scientist
+<br>
 🌍 Remote-Ready | Focused on Delivering Real-World Business Impact
 </div>
 
@@ -33,17 +37,18 @@ I’m not just experimenting with tools; I’m applying them to solve concrete p
 **My work is guided by:**
 - 🔍 **Driven by business understanding** *(focused on decisions that truly matter)*  
 - 📐 **Guided by data methodology** *(every step follows a clear, strategic process)*  
-- ⚙️ **Powered by modern technologies** *(AWS · Python · GenAI › built for scale and impact)*  
+- ⚙️ **Powered by modern technologies** *(building for scale and impact)*  
                              
 
 ---
 
 ## 💻 Featured Projects
 
-| 🧾 Project                        | 🔗 Link                                                                                         | ⚙️ Tech Stack                                                | 📌 Description                                                                                                                                                  |
-|----------------------------------|-----------------------------------------------------------------------------------------------|--------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| VCM – VAT Compliance Monitor     | [GitHub Repo](https://github.com/kevindellapiazza/vat-compliance-monitor)                     | AWS Lambda, Textract, S3, DynamoDB, Glue, Athena, Python     | A serverless AWS solution that automates VAT invoice validation using OCR and country-specific rules. Designed to eliminate manual data entry and ensure auditability. |
-| (More projects coming soon)      | —                                                                                             | To be announced                                              | Focused on DATA + Cloud + AI pipelines, business analytics, and production-ready automation tools.                                                              |
+| 🧾 Project | 🔗 Link | ⚙️ Tech Stack | 📌 Description |
+|---|---|---|---|
+| **Data Foundations for AI** | [GitHub Repo](https://github.com/kevindellapiazza/data-foundations-for-ai) | AWS (S3, Redshift, Glue, Athena), Medallion Architecture, ELT, Git | An end-to-end data engineering workflow that designs, orchestrates, and governs data pipelines. Delivering a clean, scalable data foundation for AI and business intelligence.  |
+| **VCM – VAT Compliance Monitor** | [GitHub Repo](https://github.com/kevindellapiazza/vat-compliance-monitor) | AWS Lambda, Textract, S3, DynamoDB, Glue, Athena, Python | A serverless AWS solution that automates VAT invoice validation using OCR and country-specific rules. Designed to eliminate manual data entry and ensure auditability. |
+| (More projects coming soon) | — | To be announced | Focused on DATA + Cloud + AI pipelines, business analytics, and production-ready automation tools. |                                                            |
 
 ---
 
@@ -71,7 +76,7 @@ I’m not just experimenting with tools; I’m applying them to solve concrete p
 - 📧 **[kevindellapiazza1@gmail.com](mailto:kevindellapiazza1@gmail.com)**
 
 <br>
-If you're hiring, building, or collaborating in this space. I’d love to connect and explore ways we can work together! 🚀
+Ready to collaborate to cut costs, reduce errors, and prepare data infrastructure for the AI era. 🚀
 
 <!-- Spacer -->
 <br>
