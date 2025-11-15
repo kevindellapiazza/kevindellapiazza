@@ -8,61 +8,57 @@
 
 <div align="center">
 
-# Quick snapshot of who I am:
+# Hi, I'm Kevin Della Piazza
 
-🚀 I build scalable data foundations that turn AI and analytics into real business value. 
-<br>
-🎓 AWS Certified Solution Architect - Associate
-<br>
-🎓 IBM Certified Data Scientist
-<br>
-🌍 Remote-Ready | Focused on Delivering Real-World Business Impact
+### Freelance AI Engineer • MLOps Engineer | Cloud Solutions Architect (AWS Certified)
+
+### ⚡ My mission: Helping businesses automate & scale with cost-optimized AI systems on AWS.
+
+### 📧 **kevindellapiazza1@gmail.com** | 🔗 **[LinkedIn](https://www.linkedin.com/in/kevindellapiazza/)**
 </div>
 
-
-
-
----
-
-### My mission is to design and deploy production-ready systems that:
-- ✅ Are cloud-native and built to scale  
-- ✅ Automate real business processes  
-- ✅ Stay cost-efficient, maintainable, and deliver long-term value  
 
 ---
 
 ### What makes my approach different?  
-I’m not just experimenting with tools; I’m applying them to solve concrete problems, automate inefficient processes, and enable better decisions.
+My experience as a FinTech co-founder shaped my entire perspective. It taught me to look beyond the technology and focus on **solving business challenges**, prioritizing **measurable ROI** and pragmatic solutions.
 
-**My work is guided by:**
-- 🔍 **Driven by business understanding** *(focused on decisions that truly matter)*  
-- 📐 **Guided by data methodology** *(every step follows a clear, strategic process)*  
-- ⚙️ **Powered by modern technologies** *(building for scale and impact)*  
-                             
+Every system I design is based on three core engineering principles:
+
+1.  ✅ **Automate Critical Processes**
+    I transform complex, manual tasks into automated workflows that reduce costs and human error.
+
+2.  ✅ **Engineer for Cost-Efficiency (Serverless-First)**
+    I use a *serverless-first* approach to build systems that scale massively while keeping your AWS bill extremely low.
+
+3.  ✅ **Transform Data into Valuable Assets**
+    I convert complex, unstructured data sources into structured, queryable assets ready for AI and analytics.
 
 ---
 
-## 💻 Featured Projects
+## 💻 "Production-Grade" Projects
+End-to-end systems that demonstrate my philosophy in action.
 
 | 🧾 Project | 🔗 Link | ⚙️ Tech Stack | 📌 Description |
 |---|---|---|---|
 | **ReviewLens AI** | [GitHub Repo](https://github.com/kevindellapiazza/reviewlens-ai-showcase) | AWS (Lambda, SFN, S3, DynamoDB, API-GW), Terraform, Docker, Streamlit, Hugging Face | A serverless AI pipeline on AWS that automates multi-layer NLP analysis (Sentiment, Topic, Aspect) for customer reviews. Fully deployed with Terraform & Docker. |
 | **VCM – VAT Compliance Monitor** | [GitHub Repo](https://github.com/kevindellapiazza/vat-compliance-monitor) | AWS Lambda, Textract, S3, DynamoDB, Glue, Athena, Python | A serverless AWS solution that automates VAT invoice validation using OCR and country-specific rules. Designed to eliminate manual data entry and ensure auditability. |
 | **Data Foundations for AI** | [GitHub Repo](https://github.com/kevindellapiazza/data-foundations-for-ai) | AWS (S3, Redshift, Glue, Athena), Medallion Architecture, ELT, Git | An end-to-end data engineering workflow that designs, orchestrates, and governs data pipelines. Delivering a clean, scalable data foundation for AI and business intelligence. |
-| (More projects coming soon) | — | To be announced | Focused on DATA + Cloud + AI pipelines, business analytics, and production-ready automation tools. |
+| (More projects coming soon) | — | To be announced | Focused on DATA + Cloud +  GEN AI pipelines, business analytics, and production-ready automation tools. |
 ---
 
-## 🧠 Skills & Technologies
+### 🧠 Skills & Technologies
 
-| 🧪 **Data Science** | ☁️ **Cloud & DevOps (AWS)** | 🤖 **AI & GenAI** |
-|---------------------|-----------------------------|-------------------|
-| ![Python](https://img.shields.io/badge/-Python-1E90FF?logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-1E90FF?logo=sqlite&logoColor=white) ![pandas](https://img.shields.io/badge/-pandas-1E90FF?logo=pandas) ![NumPy](https://img.shields.io/badge/-NumPy-1E90FF?logo=numpy&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-1E90FF?logo=jupyter&logoColor=white) ![scikit-learn](https://img.shields.io/badge/-scikit--learn-1E90FF?logo=scikitlearn&logoColor=white) | ![Lambda](https://img.shields.io/badge/-Lambda-orange?logo=amazonaws&logoColor=white) ![S3](https://img.shields.io/badge/-S3-orange?logo=amazonaws&logoColor=white) ![DynamoDB](https://img.shields.io/badge/-DynamoDB-orange?logo=amazonaws&logoColor=white) ![IAM](https://img.shields.io/badge/-IAM-orange?logo=amazonaws&logoColor=white) ![Textract](https://img.shields.io/badge/-Textract-orange?logo=amazonaws&logoColor=white) ![CloudWatch](https://img.shields.io/badge/-CloudWatch-orange?logo=amazonaws&logoColor=white) ![Glue](https://img.shields.io/badge/-Glue-orange?logo=amazonaws&logoColor=white) ![Athena](https://img.shields.io/badge/-Athena-orange?logo=amazonaws&logoColor=white) ![Cost Explorer](https://img.shields.io/badge/-Cost_Explorer-orange?logo=amazonaws&logoColor=white) | ![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-8A2BE2?logo=openai&logoColor=white) ![AI Ethics](https://img.shields.io/badge/-AI%20Ethics-8A2BE2?logo=trustedshops&logoColor=white) ![GenAI](https://img.shields.io/badge/-GenAI-8A2BE2?logo=openai&logoColor=white) |
+| 🧪 **Data Science & Engineering** | ☁️ **Cloud & DevOps (AWS)** | 🤖 **AI & MLOps** |
+| :--- | :--- | :--- |
+| ![Python](https://img.shields.io/badge/-Python-1E90FF?logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-1E90FF?logo=sqlite&logoColor=white) ![Pandas](https://img.shields.io/badge/-pandas-1E90FF?logo=pandas&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-1E90FF?logo=jupyter&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-1E90FF?logo=numpy&logoColor=white) | ![Lambda](https://img.shields.io/badge/-Lambda-F29100?logo=amazonaws&logoColor=white) ![S3](https://img.shields.io/badge/-S3-F29100?logo=amazons3&logoColor=white) ![Step Functions](https://img.shields.io/badge/-Step%20Functions-F29100?logo=awsstepfunctions&logoColor=white) ![DynamoDB](https://img.shields.io/badge/-DynamoDB-F29100?logo=amazondynamodb&logoColor=white) ![API Gateway](https://img.shields.io/badge/-API%20Gateway-F29100?logo=amazonapigateway&logoColor=white) ![Glue](https://img.shields.io/badge/-Glue-F29100?logo=awsglue&logoColor=white) ![Athena](https://img.shields.io/badge/-Athena-F29100?logo=amazonathena&logoColor=white) ![SQS](https://img.shields.io/badge/-SQS-F29100?logo=amazonsqs&logoColor=white) ![Terraform](https://img.shields.io/badge/-Terraform-F29100?logo=terraform&logoColor=white) ![AWS SAM](https://img.shields.io/badge/-AWS%20SAM-F29100?logo=awssam&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-F29100?logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F29100?logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-F29100?logo=githubactions&logoColor=white) | ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-8A2BE2?logo=huggingface&logoColor=white) ![BERTopic](https://img.shields.io/badge/-BERTopic-8A2BE2?logo=google&logoColor=white) ![Scikit--learn](https://img.shields.io/badge/-scikit--learn-8A2BE2?logo=scikitlearn&logoColor=white) ![AWS Textract](https://img.shields.io/badge/-Textract-8A2BE2?logo=amazonaws&logoColor=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-8A2BE2?logo=streamlit&logoColor=white) ![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Eng-8A2BE2?logo=openai&logoColor=white) ![AI Ethics](https://img.shields.io/badge/-AI%20Ethics-8A2BE2?logo=trustedshops&logoColor=white) |
 
 
 ---
 ## 🎓 Certifications
 
-- ✅ **[AWS Solutions Architect Associate SAA-C03](https://www.credly.com/badges/3368f6db-a55e-49f5-8679-c50b35c5ca98/public_url)** 
+- ✅ **[AWS Solutions Architect Associate SAA-C03](https://www.credly.com/badges/3368f6db-a55e-49f5-8679-c50b35c5ca98/public_url)**
+- 🔄 *In Progress:* **AWS Certified Security - Specialty**
 - ✅ **[IBM Data Science Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/certificate/HCU5SAH9K9AE)**
 - ✅ **[Prompt Engineering for ChatGPT – Vanderbilt University](https://www.coursera.org/account/accomplishments/certificate/8NS7UF3O4FJX)**
 - ✅ **[AI Ethics – University of Michigan](https://www.coursera.org/account/accomplishments/certificate/W2G9DVE80PTL)**
