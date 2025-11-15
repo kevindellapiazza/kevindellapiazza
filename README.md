@@ -46,10 +46,10 @@ I’m not just experimenting with tools; I’m applying them to solve concrete p
 
 | 🧾 Project | 🔗 Link | ⚙️ Tech Stack | 📌 Description |
 |---|---|---|---|
-| **Data Foundations for AI** | [GitHub Repo](https://github.com/kevindellapiazza/data-foundations-for-ai) | AWS (S3, Redshift, Glue, Athena), Medallion Architecture, ELT, Git | An end-to-end data engineering workflow that designs, orchestrates, and governs data pipelines. Delivering a clean, scalable data foundation for AI and business intelligence.  |
+| **ReviewLens AI** | [GitHub Repo](https://github.com/kevindellapiazza/reviewlens-ai-showcase) | AWS (Lambda, SFN, S3, DynamoDB, API-GW), Terraform, Docker, Streamlit, Hugging Face | A serverless AI pipeline on AWS that automates multi-layer NLP analysis (Sentiment, Topic, Aspect) for customer reviews. Fully deployed with Terraform & Docker. |
 | **VCM – VAT Compliance Monitor** | [GitHub Repo](https://github.com/kevindellapiazza/vat-compliance-monitor) | AWS Lambda, Textract, S3, DynamoDB, Glue, Athena, Python | A serverless AWS solution that automates VAT invoice validation using OCR and country-specific rules. Designed to eliminate manual data entry and ensure auditability. |
-| (More projects coming soon) | — | To be announced | Focused on DATA + Cloud + AI pipelines, business analytics, and production-ready automation tools. |                                                            |
-
+| **Data Foundations for AI** | [GitHub Repo](https://github.com/kevindellapiazza/data-foundations-for-ai) | AWS (S3, Redshift, Glue, Athena), Medallion Architecture, ELT, Git | An end-to-end data engineering workflow that designs, orchestrates, and governs data pipelines. Delivering a clean, scalable data foundation for AI and business intelligence. |
+| (More projects coming soon) | — | To be announced | Focused on DATA + Cloud + AI pipelines, business analytics, and production-ready automation tools. |
 ---
 
 ## 🧠 Skills & Technologies
